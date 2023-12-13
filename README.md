@@ -1,5 +1,7 @@
 # Project Travel List 🏖️
 
+This project was part of Jonas Schmedtmann's  Ultimate React course on Udemy.
+
 The goal of this repo is to practice the following skill sets:
 
 - React framework
@@ -25,13 +27,12 @@ I struggled with how lifting state works and sometimes how derived state functio
 
 ## Links
 
- [Code](https://github.com/Frenzy017/travel-list)
 
 ## Screenshots
 
 > Normal View
 
-![Screenshot Normal](.img/../images/travel-list.png)
+![Screenshot Normal](/travel-list/images/travel-list.png)
 
 
 ## Deployment
